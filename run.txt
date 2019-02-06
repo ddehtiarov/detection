@@ -1,0 +1,1 @@
+python main.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel --c 0.1
